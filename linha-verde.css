@@ -1,0 +1,12 @@
+.topo {
+    background-color: #1d6656;
+}
+
+.linha {
+    border-bottom: 2px solid #1d6656;
+}
+
+.background-linhas {
+    background-color: #1d6656;
+    height: 233vh;
+}
