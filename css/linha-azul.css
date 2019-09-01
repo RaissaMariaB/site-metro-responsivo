@@ -79,7 +79,7 @@ body{
 }
 
 .background-linhas{
-    background-color: rgb(0, 80, 131);
+    background-color: #005083;
     width: 38px;
     height: 320vh;
     border-radius: 30px;
@@ -90,8 +90,3 @@ body{
 
 /* Media Queries */
 
-@media (max-width: 768px) { 
-    .conteiner { 
-        display: flex;
-    }
-}
